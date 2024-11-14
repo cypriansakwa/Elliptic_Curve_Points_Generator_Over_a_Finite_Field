@@ -32,8 +32,8 @@ The program iterates through all possible integer values of $x$ and $y$ within t
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/elliptic_curve_points_finder.git
-    cd elliptic_curve_points_finder
+    git clone https://github.com/cypriansakwa/Elliptic_Curve_Points_Generator_Over_a_Finite_Field.git
+    cd Elliptic_Curve_Points_Generator_Over_a_Finite_Field
     ```
 
 2. **Build the project**:
