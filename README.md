@@ -26,8 +26,7 @@ The program iterates through all possible integer values of $x$ and $y$ within t
 4. **Finding Points**: If a valid $y$ is found, the program also considers the point $(x, p - y)$ if $y \neq 0$.
 
 ## Requirements
-
-- [Rust](https://www.rust-lang.org/) (latest stable version)
+- To get started, ensure you have [Rust](https://www.rust-lang.org/tools/install) installed on your machine. You can then clone the repository and build the project.
 
 ## Installation
 
