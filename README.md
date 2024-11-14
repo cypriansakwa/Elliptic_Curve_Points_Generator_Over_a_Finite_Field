@@ -13,7 +13,6 @@ The program iterates through all possible integer values of $x$ and $y$ within t
 - [Usage](#usage)
 - [Example Output](#example-output)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## How It Works
 
@@ -52,3 +51,25 @@ To execute the program, simply run:
 
 ```bash
 cargo run
+```
+## Example Output
+For the elliptic curve $y^2 \equiv x^3 + ax + b \pmod{p}$ where $a=8, b=2$ and $p=17$, it outputs:
+```
+Point (0, 6)
+Point (0, 11)
+Point (2, 3) 
+Point (2, 14)
+Point (3, 6)
+Point (3, 11)
+Point (4, 8)
+Point (4, 9)
+Point (8, 0)
+Point (9, 2)
+Point (9, 15)
+Point (13, 5)
+Point (13, 12)
+Point (14, 6)
+Point (14, 11)
+```
+## Contributing
+Contributions are welcome! If you find a bug or have suggestions for improvements, please open an issue or submit a pull request.
