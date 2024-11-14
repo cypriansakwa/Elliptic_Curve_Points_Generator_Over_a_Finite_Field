@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Elliptic_Generate_Points"
+name = "Elliptic_Curve_Points_Generator_Over_a_Finite_Field"
 version = "0.1.0"
